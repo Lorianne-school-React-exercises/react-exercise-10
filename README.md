@@ -1,4 +1,4 @@
-# React Props & State Workshop
+# 💪 React Props & State Challenge
 
 1. create a `MenuList` component;
 2. from `App.js`, pass the variable `foodItems` to `MenuList` component as _props_;
