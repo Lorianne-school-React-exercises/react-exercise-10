@@ -8,3 +8,7 @@
 6. create a method `handleClickFavorite` that will switch the state `isFavorite` from true to false.
 7. on the div with the id favorite, call the method `handleClickFavorite` when it listens to a click event;
 8. on the same div, conditionally render the className value to "isFavorite" or "notFavorite", depending on the state isFavorite
+
+Result:
+
+![0](https://user-images.githubusercontent.com/78496780/126077085-9e11743e-4cb3-4712-9a55-106c753b9c1c.png)
